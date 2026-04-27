@@ -17,7 +17,6 @@ function greetingBot(name, isMorning) {
     }
 
     return message;
-
 }
 
 console.log(greetingBot("Alex", true));
